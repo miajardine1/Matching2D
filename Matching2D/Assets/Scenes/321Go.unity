@@ -286,7 +286,7 @@ GameObject:
   - component: {fileID: 1220644168}
   - component: {fileID: 1220644167}
   m_Layer: 0
-  m_Name: CoroutineObj
+  m_Name: GOCoroutineObj
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -519,7 +519,7 @@ GameObject:
   - component: {fileID: 1690775693}
   - component: {fileID: 1690775692}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: GOCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
